@@ -10,4 +10,4 @@ subscriber:
       JMS_URL: "ldap://apptstldap.corp.fedex.com:389/ou=messaging,dc=corp,dc=fedex,dc=com"
       JMS_USERNAME: GRI-1590
       MESSAGE_PROCESSOR: com.fedex.app3536444.er.jms.listener.ErrorMessageListner
-      NUM_CONCURRENT_CONSUMERS: 2
+      NUM_CONCURRENT_CONSUMERS: 1
