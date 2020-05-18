@@ -8,7 +8,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/ganeshgoli/servercloudconfig.git
+          uri: https://github.com/prashanth892/config-server.git
           cloneOnStart: true
 
 #Disable security of the Management endpoint
