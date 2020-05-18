@@ -8,6 +8,6 @@ subscriber:
       JMS_INITIAL_CONTEXT: com.fedex.mi.decorator.jms.FedexTibcoInitialContext
       JMS_PASSWORD: PdV6U8oy1AYBl5xjjXDilfumt
       JMS_URL: "ldap://apptstldap.corp.fedex.com:389/ou=messaging,dc=corp,dc=fedex,dc=com"
-      JMS_USERNAME: PRA-1590
+      JMS_USERNAME: Poojitha
       MESSAGE_PROCESSOR: com.fedex.app3536444.er.jms.listener.ErrorMessageListner
       NUM_CONCURRENT_CONSUMERS: 1
